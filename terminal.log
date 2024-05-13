@@ -30,3 +30,20 @@ Reading config file '/Users/rzz/Workspace/drizzle-kit-play/drizzle.config.ts'
 users 3 columns 1 indexes 0 fks
 
 [✓] Your SQL migration file ➜ drizzle/0001_thankful_nova.sql 🚀
+
+# Add password field
+
+rzz@Nguyens drizzle-kit-play % pnpm generate
+
+> @ generate /Users/rzz/Workspace/drizzle-kit-play
+> drizzle-kit generate
+
+drizzle-kit: v0.21.1
+drizzle-orm: v0.30.10
+
+No config path provided, using default 'drizzle.config.ts'
+Reading config file '/Users/rzz/Workspace/drizzle-kit-play/drizzle.config.ts'
+1 tables
+users 4 columns 1 indexes 0 fks
+
+No schema changes, nothing to migrate 😴
