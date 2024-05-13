@@ -12,3 +12,21 @@ Reading config file '/Users/rzz/Workspace/drizzle-kit-play/drizzle.config.ts'
 users 3 columns 0 indexes 0 fks
 
 [✓] Your SQL migration file ➜ drizzle/0000_bumpy_mother_askani.sql 🚀
+
+
+# Make email is unique
+
+rzz@Nguyens drizzle-kit-play % pnpm generate
+
+> @ generate /Users/rzz/Workspace/drizzle-kit-play
+> drizzle-kit generate
+
+drizzle-kit: v0.21.1
+drizzle-orm: v0.30.10
+
+No config path provided, using default 'drizzle.config.ts'
+Reading config file '/Users/rzz/Workspace/drizzle-kit-play/drizzle.config.ts'
+1 tables
+users 3 columns 1 indexes 0 fks
+
+[✓] Your SQL migration file ➜ drizzle/0001_thankful_nova.sql 🚀
