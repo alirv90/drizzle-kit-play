@@ -1,0 +1,13 @@
+{
+  "version": "6",
+  "dialect": "sqlite",
+  "entries": [
+    {
+      "idx": 0,
+      "version": "6",
+      "when": 1715583937096,
+      "tag": "0000_bumpy_mother_askani",
+      "breakpoints": true
+    }
+  ]
+}
